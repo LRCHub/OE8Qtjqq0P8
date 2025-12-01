@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ランダバ",
+  "base_artist": "claquepot",
+  "createdAt": "2025-12-01T03:29:05.586690Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ランダバ",
+      "artist": "claquepot",
+      "has_synced": false,
+      "path": "select/pl_01_ランダバ_claquepot.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Lan-Da-Ba-Da",
+      "artist": "claquepot",
+      "has_synced": false,
+      "path": "select/pl_02_Lan-Da-Ba-Da_claquepot.txt"
+    }
+  ]
+}
